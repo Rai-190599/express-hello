@@ -12,7 +12,7 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 
 ```bash
 
-   git clone [https://github.com/Rai-190599/express-hello.git](https://github.com/Rai-190599/express-hello.git)
+   git clone https://github.com/Rai-190599/express-hello.git
 
 ```
 

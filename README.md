@@ -56,7 +56,3 @@ http://localhost:3000
 {
   "message": "This server is healthy"
 }
-
-```
-
-```

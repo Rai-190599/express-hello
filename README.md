@@ -1,4 +1,3 @@
-```markdown
 # Express Hello JSON API
 
 A simple and lightweight Node.js application built with Express.js. This application serves as a basic health check endpoint returning a JSON response. 
